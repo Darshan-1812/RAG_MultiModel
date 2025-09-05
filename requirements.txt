@@ -1,0 +1,10 @@
+langchain
+torch
+transformers
+faiss-cpu
+pillow
+python-dotenv
+numpy
+scikit-learn
+pymupdf
+langchain-google-genai
